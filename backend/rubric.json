@@ -1,0 +1,9 @@
+{
+  "role": "Backend Engineer",
+  "criteria": {
+    "maintainability": "Code should have clear variable names, modular functions, and lack of deep nesting.",
+    "framework_skill": "Proper use of standard library features, asynchronous programming, and RESTful principles.",
+    "error_handling": "Explicit try/except blocks, logging, and avoiding silent failures.",
+    "algorithmic_efficiency": "Avoids O(n^2) operations in data processing, uses appropriate data structures like sets/dicts."
+  }
+}
